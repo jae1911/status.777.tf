@@ -9,6 +9,28 @@ sites:
     url: https://api.yt.jae.fi
   - name: Piped (Proxy)
     url: https://px.yt.jae.fi
+  - name: LibReddit
+    url: https://rd.jae.su
+  - name: Nitter
+    url: https://twitter.jae.su
+  - name: PrivateBin
+    url: https://bin.jae.fi
+  - name: Reddit Account Search
+    url: https://reddit.jae.su
+  - name: KeyOxide
+    url: https://keys.jae.fi
+  - name: ProxiTok
+    url: https://tok.jae.fi
+  - name: SearXNG
+    url: https://search.jae.fi
+  - name: Wikiless
+    url: https://wiki.jae.fi
+  - name: Rimgo
+    url: https://imgur.jae.fi
+  - name: Excalidraw
+    url: https://draw.jae.fi
+  - name: Hydrogen (Matrix client)
+    url: https://hydrogen.jae.fi
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,8 +39,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "JAE Status"
+  introMessage: Status of the [public services](https://library.jae.fi/doku.php?id=int:instances).
   navbar:
     - title: Status
       href: /
