@@ -31,6 +31,10 @@ sites:
     url: https://draw.jae.fi
   - name: Hydrogen (Matrix client)
     url: https://hydrogen.jae.fi
+  - name: Main Router
+    check: "tcp-ping"
+    url: $MAINROUTERIP
+    port: $MAINROUTERPORT
 
 status-website:
   cname: status.jae.fi
