@@ -34,6 +34,8 @@ sites:
     url: https://hydrogen.jae.fi
   - name: UwU Proxified
     url: https://uwu.jae.fi
+  - name: LibreTranslate
+    url: https://translate.jae.fi
   - name: Main Router
     check: "tcp-ping"
     url: $MAINROUTERIP
