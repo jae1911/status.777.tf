@@ -32,7 +32,7 @@ sites:
     url: https://draw.jae.fi
   - name: Hydrogen (Matrix client)
     url: https://hydrogen.jae.fi
-  - name: UwU Proxified (ALFA)
+  - name: UwU Proxified
     url: https://uwu.jae.fi
   - name: Main Router
     check: "tcp-ping"
