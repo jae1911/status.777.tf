@@ -40,18 +40,20 @@
     "url": "https://px.yt.jae.fi",
     "icon": "https://favicons.githubusercontent.com/px.yt.jae.fi",
     "slug": "piped-proxy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 656,
     "timeDay": 623,
     "timeWeek": 656,
     "timeMonth": 656,
     "timeYear": 656,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 1
+    }
   },
   {
     "name": "LibReddit",
@@ -94,18 +96,20 @@
     "url": "https://bin.jae.fi",
     "icon": "https://favicons.githubusercontent.com/bin.jae.fi",
     "slug": "private-bin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 915,
     "timeDay": 799,
     "timeWeek": 915,
     "timeMonth": 915,
     "timeYear": 915,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "Reddit Account Search",
@@ -130,36 +134,40 @@
     "url": "https://keys.jae.fi",
     "icon": "https://favicons.githubusercontent.com/keys.jae.fi",
     "slug": "key-oxide",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 763,
     "timeDay": 658,
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "ProxiTok",
     "url": "https://tok.jae.fi",
     "icon": "https://favicons.githubusercontent.com/tok.jae.fi",
     "slug": "proxi-tok",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 765,
     "timeDay": 787,
     "timeWeek": 765,
     "timeMonth": 765,
     "timeYear": 765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "SearXNG",
@@ -184,36 +192,40 @@
     "url": "https://wiki.jae.fi",
     "icon": "https://favicons.githubusercontent.com/wiki.jae.fi",
     "slug": "wikiless",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1237,
     "timeDay": 1939,
     "timeWeek": 1237,
     "timeMonth": 1237,
     "timeYear": 1237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "Rimgo",
     "url": "https://imgur.jae.fi",
     "icon": "https://favicons.githubusercontent.com/imgur.jae.fi",
     "slug": "rimgo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 624,
     "timeDay": 584,
     "timeWeek": 624,
     "timeMonth": 624,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "Excalidraw",
@@ -238,45 +250,49 @@
     "url": "https://hydrogen.jae.fi",
     "icon": "https://favicons.githubusercontent.com/hydrogen.jae.fi",
     "slug": "hydrogen-matrix-client",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 633,
     "timeDay": 638,
     "timeWeek": 633,
     "timeMonth": 633,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "UwU Proxified",
     "url": "https://uwu.jae.fi",
     "icon": "https://favicons.githubusercontent.com/uwu.jae.fi",
     "slug": "uw-u-proxified",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 933,
     "timeDay": 693,
     "timeWeek": 933,
     "timeMonth": 933,
     "timeYear": 933,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "LibreTranslate",
     "url": "https://translate.jae.fi",
     "icon": "https://favicons.githubusercontent.com/translate.jae.fi",
     "slug": "libre-translate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -285,7 +301,9 @@
     "timeWeek": 821,
     "timeMonth": 821,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 0
+    }
   },
   {
     "name": "Main Router",
