@@ -36,6 +36,8 @@ sites:
     url: https://uwu.jae.fi
   - name: LibreTranslate
     url: https://translate.jae.fi
+  - name: NTFY
+    url: https://ntfy.jae.fi
   - name: Main Router
     check: "tcp-ping"
     url: $MAINROUTERIP
