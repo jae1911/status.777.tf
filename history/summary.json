@@ -66,27 +66,29 @@
     "url": "https://rd.jae.su",
     "icon": "https://favicons.githubusercontent.com/rd.jae.su",
     "slug": "lib-reddit",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2486,
     "timeDay": 3338,
     "timeWeek": 2574,
     "timeMonth": 2486,
     "timeYear": 2486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-22": 1
+    }
   },
   {
     "name": "Nitter",
     "url": "https://twitter.jae.su",
     "icon": "https://favicons.githubusercontent.com/twitter.jae.su",
     "slug": "nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +97,9 @@
     "timeWeek": 607,
     "timeMonth": 685,
     "timeYear": 685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-22": 0
+    }
   },
   {
     "name": "PrivateBin",
