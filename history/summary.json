@@ -66,19 +66,19 @@
     "url": "https://rd.jae.su",
     "icon": "https://favicons.githubusercontent.com/rd.jae.su",
     "slug": "lib-reddit",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2486,
-    "timeDay": 3338,
-    "timeWeek": 2574,
-    "timeMonth": 2486,
-    "timeYear": 2486,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 2479,
+    "timeDay": 2829,
+    "timeWeek": 2545,
+    "timeMonth": 2479,
+    "timeYear": 2479,
     "dailyMinutesDown": {
-      "2022-08-22": 1
+      "2022-08-22": 15
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "https://twitter.jae.su",
     "icon": "https://favicons.githubusercontent.com/twitter.jae.su",
     "slug": "nitter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 510,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 681,
+    "timeDay": 557,
     "timeWeek": 607,
-    "timeMonth": 685,
-    "timeYear": 685,
+    "timeMonth": 681,
+    "timeYear": 681,
     "dailyMinutesDown": {
-      "2022-08-22": 0
+      "2022-08-22": 14
     }
   },
   {
