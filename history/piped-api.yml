@@ -1,7 +1,7 @@
 url: https://api.yt.jae.fi
-status: down
-code: 502
-responseTime: 3731
-lastUpdated: 2022-09-13T23:03:18.595Z
+status: up
+code: 200
+responseTime: 759
+lastUpdated: 2022-09-14T19:23:01.387Z
 startTime: Tue Aug 09 2022 11:01:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
