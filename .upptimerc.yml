@@ -38,6 +38,8 @@ sites:
     url: https://translate.jae.fi
   - name: NTFY
     url: https://ntfy.jae.fi
+  - name: Invidious
+    url: https://invidious.jae.fi
   - name: Main Router
     check: "tcp-ping"
     url: $MAINROUTERIP
