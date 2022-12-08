@@ -51,7 +51,7 @@ status-website:
   name: JAE Status
   introTitle: "JAE Status"
   theme: night
-  introMessage: Status of the [public services](https://library.jae.fi/doku.php?id=int:instances).
+  introMessage: Status of the [public services](https://777.tf).
   navbar:
     - title: Status
       href: /
