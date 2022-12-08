@@ -40,6 +40,8 @@ sites:
     url: https://ntfy.jae.fi
   - name: Invidious
     url: https://invidious.jae.fi
+  - name: DN0 Social
+    url: https://soc.jae.fi
   - name: Main Router
     check: "tcp-ping"
     url: $MAINROUTERIP
