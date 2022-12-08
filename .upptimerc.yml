@@ -46,7 +46,7 @@ sites:
     port: $MAINROUTERPORT
 
 status-website:
-  cname: status.jae.fi
+  cname: status.777.tf
   logoUrl: https://bm.jae.fi/Logo-abs.svg
   name: JAE Status
   introTitle: "JAE Status"
