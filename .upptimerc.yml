@@ -46,6 +46,8 @@ sites:
     check: "tcp-ping"
     url: $MAINROUTERIP
     port: $MAINROUTERPORT
+  - name: AnonymousOverflow
+    url: https://overflow.777.tf
 
 status-website:
   cname: status.777.tf
