@@ -1,7 +1,7 @@
 url: https://soc.jae.fi
-status: up
-code: 200
-responseTime: 425
-lastUpdated: 2023-01-11T23:03:03.501Z
+status: down
+code: 502
+responseTime: 413
+lastUpdated: 2023-01-12T07:09:01.107Z
 startTime: Thu Dec 08 2022 09:41:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
