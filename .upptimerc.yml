@@ -5,15 +5,15 @@ user-agent: jae1911
 
 sites:
   - name: Piped (Frontend)
-    url: https://yt.jae.fi
+    url: https://yt.777.tf
   - name: Piped (API)
-    url: https://api.yt.jae.fi
+    url: https://api.yt.777.tf
   - name: Piped (Proxy)
-    url: https://px.yt.jae.fi
+    url: https://px.yt.777.tf
   - name: LibReddit
-    url: https://rd.jae.su
+    url: https://rd.777.tf
   - name: Nitter
-    url: https://twitter.jae.su
+    url: https://nitter.777.tf
   - name: PrivateBin
     url: https://bin.jae.fi
   - name: Reddit Account Search
@@ -39,7 +39,7 @@ sites:
   - name: NTFY
     url: https://ntfy.jae.fi
   - name: Invidious
-    url: https://invidious.jae.fi
+    url: https://invidious.777.tf
   - name: DN0 Social
     url: https://soc.jae.fi
   - name: Main Router
@@ -50,6 +50,10 @@ sites:
     url: https://overflow.777.tf
   - name: BreezeWiki
     url: https://breeze.777.tf
+  - name: GotHub
+    url: https://gh.777.tf
+  - name: Cinny
+    url: https://cinny.777.tf
 
 status-website:
   cname: status.777.tf
