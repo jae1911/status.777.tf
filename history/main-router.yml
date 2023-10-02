@@ -1,7 +1,7 @@
 url: $MAINROUTERIP
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2023-10-01T23:04:23.602Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-10-02T09:57:13.373Z
 startTime: 2022-08-09T11:32:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
