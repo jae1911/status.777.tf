@@ -4,56 +4,18 @@ assignees: jae1911
 user-agent: jae1911
 
 sites:
-  - name: Piped (Frontend)
-    url: https://yt.777.tf
-  - name: Piped (API)
-    url: https://api.yt.777.tf
-  - name: Piped (Proxy)
-    url: https://px.yt.777.tf
-  - name: LibReddit
-    url: https://rd.777.tf
-  - name: Nitter
-    url: https://nitter.777.tf
-  - name: PrivateBin
-    url: https://bin.jae.fi
-  - name: Reddit Account Search
-    url: https://reddit.jae.su
-  - name: KeyOxide
-    url: https://keys.jae.fi
-  - name: ProxiTok
-    url: https://tok.jae.fi
-  - name: SearXNG
-    url: https://search.jae.fi
-  - name: Wikiless
-    url: https://wiki.jae.fi
-  - name: Rimgo
-    url: https://imgur.jae.fi
-  - name: Excalidraw
-    url: https://draw.jae.fi
-  - name: Hydrogen (Matrix client)
-    url: https://hydrogen.jae.fi
-  - name: UwU Proxified
-    url: https://uwu.jae.fi
-  - name: LibreTranslate
-    url: https://translate.jae.fi
-  - name: NTFY
-    url: https://ntfy.jae.fi
-  - name: Invidious
-    url: https://invidious.777.tf
+  - name: Main Website
+    url: https://777.tf
   - name: DN0 Social
     url: https://soc.jae.fi
-  - name: Main Router
-    check: "tcp-ping"
-    url: $MAINROUTERIP
-    port: $MAINROUTERPORT
-  - name: AnonymousOverflow
-    url: https://overflow.777.tf
-  - name: BreezeWiki
-    url: https://breeze.777.tf
-  - name: GotHub
-    url: https://gh.777.tf
-  - name: Cinny
-    url: https://cinny.777.tf
+  - name: Noiseless Storage (EU-FI)
+    url: $NSSTORAGE_URI
+  - name: Vaultwarden
+    url: $VWARDEN_URI
+  - name: Public Image CDN
+    url: https://i.j4.lc
+  - name: Public General CDN
+    url: https://bm.777.tf
 
 status-website:
   cname: status.777.tf
