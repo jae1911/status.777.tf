@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 807,
     "timeDay": 934,
-    "timeWeek": 807,
+    "timeWeek": 831,
     "timeMonth": 807,
     "timeYear": 807,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.49%",
     "time": 701,
     "timeDay": 1231,
-    "timeWeek": 1031,
+    "timeWeek": 1054,
     "timeMonth": 772,
     "timeYear": 701,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
     "uptimeYear": "100.00%",
     "time": 646,
     "timeDay": 683,
-    "timeWeek": 646,
+    "timeWeek": 672,
     "timeMonth": 646,
     "timeYear": 646,
     "dailyMinutesDown": {}
@@ -71,18 +71,20 @@
     "url": "$VWARDEN_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 752,
-    "timeWeek": 808,
-    "timeMonth": 808,
-    "timeYear": 808,
-    "dailyMinutesDown": {}
+    "time": 789,
+    "timeDay": 695,
+    "timeWeek": 776,
+    "timeMonth": 789,
+    "timeYear": 789,
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Public Image CDN",
@@ -97,7 +99,7 @@
     "uptimeYear": "100.00%",
     "time": 374,
     "timeDay": 402,
-    "timeWeek": 374,
+    "timeWeek": 410,
     "timeMonth": 374,
     "timeYear": 374,
     "dailyMinutesDown": {}
@@ -115,7 +117,7 @@
     "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 263,
-    "timeWeek": 329,
+    "timeWeek": 328,
     "timeMonth": 329,
     "timeYear": 329,
     "dailyMinutesDown": {}
