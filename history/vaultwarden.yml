@@ -1,7 +1,7 @@
 url: $VWARDEN_URI
-status: down
-code: 502
-responseTime: 638
-lastUpdated: 2023-12-03T19:47:03.960Z
+status: up
+code: 200
+responseTime: 861
+lastUpdated: 2023-12-03T19:54:55.235Z
 startTime: 2023-11-26T15:51:58.998Z
 generator: Upptime <https://github.com/upptime/upptime>
