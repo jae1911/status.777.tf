@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/777.tf.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 821,
-    "timeDay": 650,
-    "timeWeek": 744,
-    "timeMonth": 797,
+    "timeDay": 724,
+    "timeWeek": 767,
+    "timeMonth": 802,
     "timeYear": 821,
-    "dailyMinutesDown": {
-      "2024-02-01": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DN0 Social",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 737,
-    "timeDay": 1086,
-    "timeWeek": 847,
-    "timeMonth": 905,
+    "timeDay": 611,
+    "timeWeek": 807,
+    "timeMonth": 897,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2023-12-24": 23,
@@ -54,19 +52,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noiseless-storage-eu-fi",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 600,
-    "timeDay": 439,
-    "timeWeek": 503,
-    "timeMonth": 556,
-    "timeYear": 600,
-    "dailyMinutesDown": {
-      "2024-02-01": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 599,
+    "timeDay": 462,
+    "timeWeek": 510,
+    "timeMonth": 551,
+    "timeYear": 599,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vaultwarden",
@@ -74,19 +70,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 738,
-    "timeDay": 731,
-    "timeWeek": 661,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 737,
+    "timeDay": 748,
+    "timeWeek": 662,
     "timeMonth": 716,
-    "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-02-01": 8
-    }
+    "timeYear": 737,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Public Image CDN",
@@ -99,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 434,
-    "timeWeek": 247,
-    "timeMonth": 345,
-    "timeYear": 332,
+    "time": 329,
+    "timeDay": 102,
+    "timeWeek": 243,
+    "timeMonth": 335,
+    "timeYear": 329,
     "dailyMinutesDown": {}
   },
   {
@@ -118,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 273,
-    "timeWeek": 320,
-    "timeMonth": 305,
+    "timeDay": 274,
+    "timeWeek": 322,
+    "timeMonth": 306,
     "timeYear": 285,
     "dailyMinutesDown": {}
   }
