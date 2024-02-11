@@ -4,18 +4,20 @@
     "url": "https://777.tf",
     "icon": "https://icons.duckduckgo.com/ip3/777.tf.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 870,
-    "timeDay": 4398,
-    "timeWeek": 1365,
-    "timeMonth": 931,
-    "timeYear": 870,
-    "dailyMinutesDown": {}
+    "time": 865,
+    "timeDay": 2464,
+    "timeWeek": 1261,
+    "timeMonth": 919,
+    "timeYear": 865,
+    "dailyMinutesDown": {
+      "2024-02-11": 0
+    }
   },
   {
     "name": "DN0 Social",
