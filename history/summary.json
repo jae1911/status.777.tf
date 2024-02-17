@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/777.tf.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "86.03%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "98.81%",
-    "time": 982,
-    "timeDay": 1785,
-    "timeWeek": 2070,
-    "timeMonth": 1203,
-    "timeYear": 982,
+    "uptime": "98.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.11%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "98.82%",
+    "time": 981,
+    "timeDay": 1836,
+    "timeWeek": 2094,
+    "timeMonth": 1198,
+    "timeYear": 981,
     "dailyMinutesDown": {
-      "2024-02-16": 8,
       "2024-02-12": 1150,
       "2024-02-11": 251
     }
@@ -33,10 +32,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.54%",
     "time": 746,
-    "timeDay": 782,
-    "timeWeek": 1044,
-    "timeMonth": 938,
-    "timeYear": 771,
+    "timeDay": 1162,
+    "timeWeek": 1102,
+    "timeMonth": 936,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2024-02-13": 40,
       "2023-12-24": 23,
@@ -46,8 +45,7 @@
       "2023-03-05": 1078,
       "2023-02-26": 32,
       "2023-02-19": 141,
-      "2023-02-18": 395,
-      "2023-02-17": 33
+      "2023-02-18": 395
     }
   },
   {
@@ -56,19 +54,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noiseless-storage-eu-fi",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 597,
-    "timeDay": 552,
-    "timeWeek": 564,
-    "timeMonth": 558,
-    "timeYear": 597,
-    "dailyMinutesDown": {
-      "2024-02-16": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 599,
+    "timeDay": 651,
+    "timeWeek": 599,
+    "timeMonth": 560,
+    "timeYear": 599,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vaultwarden",
@@ -82,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 745,
-    "timeDay": 653,
-    "timeWeek": 733,
-    "timeMonth": 743,
+    "timeDay": 759,
+    "timeWeek": 753,
+    "timeMonth": 744,
     "timeYear": 745,
     "dailyMinutesDown": {}
   },
@@ -99,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 377,
-    "timeWeek": 325,
-    "timeMonth": 344,
-    "timeYear": 341,
+    "time": 343,
+    "timeDay": 547,
+    "timeWeek": 368,
+    "timeMonth": 354,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -117,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 447,
-    "timeWeek": 300,
-    "timeMonth": 303,
-    "timeYear": 287,
+    "time": 288,
+    "timeDay": 378,
+    "timeWeek": 303,
+    "timeMonth": 312,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   }
 ]
