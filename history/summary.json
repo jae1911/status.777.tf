@@ -48,19 +48,19 @@
     "url": "$NSSTORAGE_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noiseless-storage-eu-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 1891,
-    "timeWeek": 1230,
-    "timeMonth": 811,
-    "timeYear": 672,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 671,
+    "timeDay": 1735,
+    "timeWeek": 1184,
+    "timeMonth": 803,
+    "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-03-07": 0
+      "2024-03-07": 12
     }
   },
   {
