@@ -25,9 +25,9 @@
     "url": "https://soc.jae.fi",
     "icon": "https://icons.duckduckgo.com/ip3/soc.jae.fi.ico",
     "slug": "dn-0-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -37,6 +37,7 @@
     "timeMonth": 810,
     "timeYear": 790,
     "dailyMinutesDown": {
+      "2024-03-21": 0,
       "2024-02-13": 40,
       "2023-12-24": 23,
       "2023-12-06": 19,
@@ -48,9 +49,9 @@
     "url": "$NSSTORAGE_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noiseless-storage-eu-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,7 +60,9 @@
     "timeWeek": 478,
     "timeMonth": 798,
     "timeYear": 655,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   },
   {
     "name": "Vaultwarden",
