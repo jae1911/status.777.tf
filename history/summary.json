@@ -26,19 +26,19 @@
     "url": "https://soc.jae.fi",
     "icon": "https://icons.duckduckgo.com/ip3/soc.jae.fi.ico",
     "slug": "dn-0-social",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 781,
-    "timeDay": 811,
-    "timeWeek": 780,
-    "timeMonth": 886,
-    "timeYear": 815,
+    "time": 782,
+    "timeDay": 920,
+    "timeWeek": 811,
+    "timeMonth": 891,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-04-22": 0,
+      "2024-04-22": 10,
       "2024-02-13": 40,
       "2023-12-24": 23,
       "2023-12-06": 19
@@ -49,19 +49,19 @@
     "url": "$NSSTORAGE_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noiseless-storage-eu-fi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 965,
-    "timeWeek": 593,
-    "timeMonth": 572,
-    "timeYear": 637,
+    "time": 636,
+    "timeDay": 811,
+    "timeWeek": 583,
+    "timeMonth": 570,
+    "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-04-22": 0
+      "2024-04-22": 10
     }
   },
   {
@@ -69,19 +69,19 @@
     "url": "$VWARDEN_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 713,
-    "timeDay": 690,
-    "timeWeek": 622,
-    "timeMonth": 681,
-    "timeYear": 713,
+    "time": 718,
+    "timeDay": 981,
+    "timeWeek": 727,
+    "timeMonth": 708,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2024-04-22": 0
+      "2024-04-22": 10
     }
   },
   {
@@ -91,9 +91,9 @@
     "slug": "public-image-cdn",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 273,
@@ -101,7 +101,7 @@
     "timeMonth": 342,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-04-22": 0
+      "2024-04-22": 10
     }
   },
   {
