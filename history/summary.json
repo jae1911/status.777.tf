@@ -6,17 +6,16 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
-    "time": 948,
-    "timeDay": 1156,
-    "timeWeek": 1167,
-    "timeMonth": 1035,
-    "timeYear": 948,
+    "time": 947,
+    "timeDay": 1088,
+    "timeWeek": 1105,
+    "timeMonth": 1034,
+    "timeYear": 947,
     "dailyMinutesDown": {
-      "2024-06-14": 8,
       "2024-04-21": 16,
       "2024-02-12": 1150,
       "2024-02-11": 251
@@ -34,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 826,
-    "timeDay": 903,
-    "timeWeek": 1153,
-    "timeMonth": 1098,
+    "timeDay": 947,
+    "timeWeek": 1107,
+    "timeMonth": 1101,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2024-02-13": 40,
@@ -51,18 +50,16 @@
     "slug": "noiseless-storage-eu-fi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 706,
-    "timeWeek": 825,
-    "timeMonth": 759,
-    "timeYear": 661,
-    "dailyMinutesDown": {
-      "2024-06-14": 8
-    }
+    "time": 662,
+    "timeDay": 688,
+    "timeWeek": 805,
+    "timeMonth": 762,
+    "timeYear": 662,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vaultwarden",
@@ -71,18 +68,16 @@
     "slug": "vaultwarden",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 771,
-    "timeDay": 1027,
-    "timeWeek": 967,
-    "timeMonth": 944,
+    "timeDay": 978,
+    "timeWeek": 949,
+    "timeMonth": 943,
     "timeYear": 771,
-    "dailyMinutesDown": {
-      "2024-06-14": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Public Image CDN",
@@ -95,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 376,
-    "timeDay": 265,
-    "timeWeek": 409,
-    "timeMonth": 468,
-    "timeYear": 376,
+    "time": 375,
+    "timeDay": 282,
+    "timeWeek": 413,
+    "timeMonth": 460,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2024-04-22": 20
     }
@@ -116,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
-    "timeDay": 149,
-    "timeWeek": 348,
-    "timeMonth": 437,
+    "timeDay": 395,
+    "timeWeek": 371,
+    "timeMonth": 431,
     "timeYear": 354,
     "dailyMinutesDown": {}
   }
