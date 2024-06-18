@@ -84,10 +84,10 @@
     "url": "https://i.j4.lc",
     "icon": "https://icons.duckduckgo.com/ip3/i.j4.lc.ico",
     "slug": "public-image-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 379,
@@ -96,6 +96,7 @@
     "timeMonth": 466,
     "timeYear": 379,
     "dailyMinutesDown": {
+      "2024-06-18": 1,
       "2024-04-22": 20
     }
   },
@@ -104,9 +105,9 @@
     "url": "https://bm.777.tf",
     "icon": "https://icons.duckduckgo.com/ip3/bm.777.tf.ico",
     "slug": "public-general-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,6 +116,8 @@
     "timeWeek": 367,
     "timeMonth": 409,
     "timeYear": 355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 0
+    }
   }
 ]
