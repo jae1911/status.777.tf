@@ -1,7 +1,7 @@
 url: $NSSTORAGE_URI
-status: down
-code: 502
-responseTime: 906
-lastUpdated: 2024-06-21T16:54:52.615Z
+status: up
+code: 200
+responseTime: 839
+lastUpdated: 2024-06-21T17:43:01.205Z
 startTime: 2023-11-26T15:51:58.218Z
 generator: Upptime <https://github.com/upptime/upptime>
