@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/777.tf.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.53%",
     "time": 950,
     "timeDay": 914,
     "timeWeek": 990,
     "timeMonth": 1029,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2024-06-21": 11,
       "2024-04-21": 16,
       "2024-02-12": 1150,
       "2024-02-11": 251
@@ -49,11 +48,11 @@
     "url": "$NSSTORAGE_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noiseless-storage-eu-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
     "timeDay": 757,
@@ -61,7 +60,7 @@
     "timeMonth": 775,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2024-06-21": 11
+      "2024-06-21": 0
     }
   },
   {
@@ -71,18 +70,16 @@
     "slug": "vaultwarden",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
     "timeDay": 733,
     "timeWeek": 870,
     "timeMonth": 921,
     "timeYear": 775,
-    "dailyMinutesDown": {
-      "2024-06-21": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Public Image CDN",
