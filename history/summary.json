@@ -4,9 +4,9 @@
     "url": "https://777.tf",
     "icon": "https://icons.duckduckgo.com/ip3/777.tf.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "97.50%",
+    "uptimeDay": "97.49%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.53%",
@@ -69,9 +69,9 @@
     "url": "$VWARDEN_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,7 +80,9 @@
     "timeWeek": 1065,
     "timeMonth": 966,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-26": 0
+    }
   },
   {
     "name": "Public Image CDN",
