@@ -6,9 +6,9 @@
     "slug": "main-website",
     "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.54%",
     "time": 958,
     "timeDay": 1340,
@@ -16,7 +16,7 @@
     "timeMonth": 1073,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2024-06-26": 0,
+      "2024-06-26": 8,
       "2024-04-21": 16,
       "2024-02-12": 1150,
       "2024-02-11": 251
@@ -69,19 +69,19 @@
     "url": "$VWARDEN_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 1207,
-    "timeWeek": 1005,
-    "timeMonth": 949,
-    "timeYear": 782,
+    "time": 785,
+    "timeDay": 1376,
+    "timeWeek": 1065,
+    "timeMonth": 966,
+    "timeYear": 785,
     "dailyMinutesDown": {
-      "2024-06-26": 0
+      "2024-06-26": 8
     }
   },
   {
