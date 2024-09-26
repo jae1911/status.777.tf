@@ -94,18 +94,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.j4.lc.ico",
     "slug": "public-image-cdn",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 413,
     "timeDay": 691,
     "timeWeek": 560,
     "timeMonth": 534,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-09-25": 9,
       "2024-04-22": 20
     }
   },
