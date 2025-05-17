@@ -4,9 +4,9 @@
     "url": "https://777.tf",
     "icon": "https://icons.duckduckgo.com/ip3/777.tf.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1268,
     "timeYear": 1314,
     "dailyMinutesDown": {
+      "2025-05-17": 0,
       "2024-08-11": 18,
       "2024-06-26": 36
     }
@@ -67,9 +68,9 @@
     "url": "$VWARDEN_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -79,6 +80,7 @@
     "timeMonth": 1103,
     "timeYear": 1180,
     "dailyMinutesDown": {
+      "2025-05-17": 0,
       "2024-10-13": 21,
       "2024-08-11": 18
     }
