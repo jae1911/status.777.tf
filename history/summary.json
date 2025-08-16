@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1301,
-    "timeDay": 991,
-    "timeWeek": 1202,
-    "timeMonth": 1292,
-    "timeYear": 1348,
+    "timeDay": 1342,
+    "timeWeek": 1216,
+    "timeMonth": 1298,
+    "timeYear": 1349,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 1338,
-    "timeDay": 1119,
-    "timeWeek": 1212,
-    "timeMonth": 1300,
-    "timeYear": 1374,
+    "timeDay": 1462,
+    "timeWeek": 1216,
+    "timeMonth": 1307,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2025-05-30": 757,
       "2025-05-29": 899,
@@ -50,14 +50,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 912,
-    "timeDay": 624,
-    "timeWeek": 793,
-    "timeMonth": 891,
-    "timeYear": 926,
-    "dailyMinutesDown": {
-      "2024-08-16": 45
-    }
+    "time": 915,
+    "timeDay": 2026,
+    "timeWeek": 992,
+    "timeMonth": 933,
+    "timeYear": 929,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vaultwarden",
@@ -70,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1153,
-    "timeDay": 1373,
-    "timeWeek": 1096,
-    "timeMonth": 1124,
-    "timeYear": 1192,
+    "time": 1154,
+    "timeDay": 1317,
+    "timeWeek": 1170,
+    "timeMonth": 1135,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2024-10-13": 21
     }
@@ -90,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 703,
-    "timeDay": 13589,
-    "timeWeek": 5038,
-    "timeMonth": 2663,
-    "timeYear": 825,
+    "time": 705,
+    "timeDay": 1438,
+    "timeWeek": 5084,
+    "timeMonth": 2673,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2025-06-17": 37,
       "2025-06-16": 38,
@@ -113,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 505,
-    "timeDay": 2723,
-    "timeWeek": 1213,
+    "timeDay": 517,
+    "timeWeek": 1165,
     "timeMonth": 789,
-    "timeYear": 546,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2025-06-17": 37,
       "2025-06-16": 38,
