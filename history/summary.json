@@ -43,18 +43,20 @@
     "url": "$NSSTORAGE_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noiseless-storage-eu-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 942,
+    "time": 941,
     "timeDay": 833,
     "timeWeek": 923,
     "timeMonth": 1063,
     "timeYear": 955,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 0
+    }
   },
   {
     "name": "Vaultwarden",
@@ -79,18 +81,19 @@
     "url": "https://i.j4.lc",
     "icon": "https://icons.duckduckgo.com/ip3/i.j4.lc.ico",
     "slug": "public-image-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 969,
+    "time": 970,
     "timeDay": 1135,
     "timeWeek": 1242,
     "timeMonth": 1280,
     "timeYear": 1161,
     "dailyMinutesDown": {
+      "2026-01-14": 0,
       "2025-06-17": 37,
       "2025-06-16": 38,
       "2025-03-05": 30
